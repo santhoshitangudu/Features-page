@@ -1,0 +1,30 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    font-size: 16px;
+    font-family: "roboto";
+    font-weight: 300;
+}
+.features-menu{
+    font-size: 20px;
+    font-weight: 500;
+    color:#1f2933;
+}
+.fetures-image{
+    width: 70px;
+    height: 70px;
+}
+.headding{
+    font-size: 24px;
+    font-weight: 300;
+}
+.paragraph{
+    font-size: 16px;
+    padding: 10px;
+}
+.inner-para{
+    font-weight: bold;
+    color: black;
+}
